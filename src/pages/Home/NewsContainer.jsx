@@ -21,7 +21,7 @@ const NewsContainer = ({ news }) => {
     return (
         <div className='space-y-5 border p-5'>
             <div className='bg-[#F3F3F3] rounded-xl p-4 flex justify-between items-center'>
-                <div className='flex items-center gap-5'>
+                <div className='flex items-center gap-6'>
                     <img className='w-16 h-16 rounded-full' src={news?.author?.img} alt="Author image" />
                     <div>
                         <h2 className='font-semibold'>{news?.author?.name}</h2>
