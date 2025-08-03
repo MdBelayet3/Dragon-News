@@ -12,6 +12,7 @@ const BriefNews = () => {
                     <Link className="mr-12" to=""> Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine</Link>
                     <Link className="mr-12" to=""> America Imported Over $6 Billion in Goods From Russia Since Ukraine Invasion</Link>
                     <Link className="mr-12" to=""> George Russell wears $110 Daniel Ricciardo merchandise to Zandvoort paddock ahead of Dutch GP</Link>
+                    <h2></h2>
                 </Marquee>
             </div>
         </div>
