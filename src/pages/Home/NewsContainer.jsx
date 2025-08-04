@@ -58,6 +58,7 @@ const NewsContainer = ({ news }) => {
                 <div className='flex items-center gap-5'><span><MdOutlineRemoveRedEye /></span>{news?.total_view}</div>
             </div>
         </div>
+        <h2></h2>
     );
 };
 
